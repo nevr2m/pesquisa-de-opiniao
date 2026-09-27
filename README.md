@@ -1,5 +1,8 @@
 # Pesquisa de Opinião
+![Python](https://img.shields.io/badge/Python-orange?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
+## Descrição
 # Descrição
 Este projeto é um programa em Python que realiza uma pesquisa de opinião com 50 participantes. O sistema coleta:
 
@@ -54,5 +57,3 @@ Número de opiniões Excelente: 30  Número de opiniões Ruim: 10
 ## Status
 
 🟢 Concluído
-
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
