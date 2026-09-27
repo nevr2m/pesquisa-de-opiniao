@@ -3,7 +3,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 ## Descrição
-# Descrição
 Este projeto é um programa em Python que realiza uma pesquisa de opinião com 50 participantes. O sistema coleta:
 
 - nome
