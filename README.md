@@ -7,7 +7,7 @@ Este projeto é um programa em Python que realiza uma pesquisa de opinião com 5
 - idade
 - opinião sobre o atendimento
 
-As respostas podem ser: `Excelente`, `Bom` ou `Ruim`. O programa conta quantas pessoas responderam `Excelente` e quantas responderam `Ruim`, e mostra o total ao final.
+As respostas podem ser: `Excelente`, `Bom` ou `Ruim`. O programa conta quantas pessoas responderam `Excelente` e quantas responderam `Ruim`, e mostra o valor total no final.
 
 ## Como executar
 1. Ter Python instalado.
@@ -44,11 +44,11 @@ Número de opiniões Excelente: 30  Número de opiniões Ruim: 10
 - A pesquisa é realizada com 50 participantes.
 
 ## Linguagem/Conceitos utilizados
-![Python](https://img.shields.io/badge/Python-orange?logo=python)
+- ![Python](https://img.shields.io/badge/Python-orange?logo=python)
 - `for`
 - `if` e `elif`
 - `input()`
-- Contadores
+- Contadores com `+= 1`
 - `range()`
 
 ## Status
