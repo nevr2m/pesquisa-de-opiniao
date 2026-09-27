@@ -1,5 +1,6 @@
 # Pesquisa de Opinião
 
+# Descrição
 Este projeto é um programa em Python que realiza uma pesquisa de opinião com 50 participantes. O sistema coleta:
 
 - nome
@@ -9,10 +10,9 @@ Este projeto é um programa em Python que realiza uma pesquisa de opinião com 5
 As respostas podem ser: `Excelente`, `Bom` ou `Ruim`. O programa conta quantas pessoas responderam `Excelente` e quantas responderam `Ruim`, e mostra o total ao final.
 
 ## Como executar
-
-1. Certifique-se de que o Python 3 está instalado em sua máquina.
-2. Abra o terminal no diretório do projeto.
-3. Execute o comando:
+1. Ter Python instalado.
+2. Abrir o projeto.
+3. Execute:
 
 ```bash
 python app.py
@@ -36,7 +36,23 @@ Ao final, o programa exibe algo semelhante a:
 Número de opiniões Excelente: 30  Número de opiniões Ruim: 10
 ```
 
-## Observações
+## Regras do programa
 
-- A opção `Bom` é aceita, mas não altera a contagem final.
-- O código foi desenvolvido como uma atividade simples de contagem de opiniões.
+- `Excelente` → aumenta o contador de avaliações excelentes.
+- `Bom` → é aceito, mas não é contabilizado.
+- `Ruim` → aumenta o contador de avaliações ruins.
+- A pesquisa é realizada com 50 participantes.
+
+## Linguagem/Conceitos utilizados
+![Python](https://img.shields.io/badge/Python-orange?logo=python)
+- `for`
+- `if` e `elif`
+- `input()`
+- Contadores
+- `range()`
+
+## Status
+
+🟢 Concluído
+
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
