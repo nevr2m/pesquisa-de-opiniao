@@ -45,4 +45,14 @@ Número de opiniões Excelente: 30  Número de opiniões Ruim: 10
 - `Ruim` → aumenta o contador de avaliações ruins.
 - A pesquisa é realizada com 50 participantes.
 
+## Linguagem/Conceitos utilizados
+- ![Python](https://img.shields.io/badge/Python-orange?logo=python)
+- `for`
+- `if` e `elif`
+- `input()`
+- Contadores com `+= 1`
+- `range()`
 
+## Status
+
+🟢 Concluído
