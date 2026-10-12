@@ -1,4 +1,4 @@
-# Sistema de Avaliação Escolar
+# Pesquisa de Opinião
 ![Python](https://img.shields.io/badge/Python-orange?logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
